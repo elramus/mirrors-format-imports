@@ -1,8 +1,7 @@
 -   id: format-imports
     name: Format Imports
     description: daidodo's JavaScript and TypeScript Import/Export Sorter
-    entry: format-imports -l --extension js|ts|jsx|tsx
+    entry: format-imports
     language: node
     additional_dependencies: ["format-imports"]
     types_or: [javascript, jsx, ts, tsx]
-    verbose: true
