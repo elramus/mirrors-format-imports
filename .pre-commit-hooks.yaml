@@ -4,4 +4,4 @@
     entry: format-imports
     language: node
     additional_dependencies: ["format-imports"]
-    types: [javascript, jsx, ts, tsx]
+    types_or: [javascript, jsx, ts, tsx]
